@@ -56,5 +56,4 @@ Output Device: Soundflower (ch.2)
 
 [![webSamplr 2.0 Youtube](https://img.youtube.com/vi/6XijyJpCX8s/0.jpg)](https://youtu.be/6XijyJpCX8s)
 
-<script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gum.co/websamplr?wanted=true" target="_blank">Get webSamplr 2.0 now</a>
